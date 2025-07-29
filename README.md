@@ -52,9 +52,9 @@ The plugin implements real-time drawing synchronization using:
 
 ### Common Issues
 
-1. The button doesn't appear
+1. The button doesn't appear!!! 
    Try again. But seriously, it needs the following permissions for the sandbox: `"sandboxValues": ["allow-same-origin", "allow-popups", "allow-popups-to-escape-sandbox", "allow-scripts"]`
-2. I found a bug
+3. I found a bug!!! 
    Great, let me know, I'll do my best to fix it
 
 ## License
