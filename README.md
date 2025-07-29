@@ -14,7 +14,7 @@ A collaborative whiteboard plugin for Pexip Infinity that allows participants to
 1. Download the dist folder
 2. Unzip it to /webapp3/branding/plugins/whiteboard/
 3. Reference in manifest
-4. 
+   
 ## Usage
 
 1. **Opening the Whiteboard**: Click the whiteboard button in the sidebar to open the drawing canvas
