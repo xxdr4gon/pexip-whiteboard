@@ -11,9 +11,10 @@ A collaborative whiteboard plugin for Pexip Infinity that allows participants to
 
 ## Installation
 
-1. Download the dist folder
-2. Unzip it to /webapp3/branding/plugins/whiteboard/
-3. Reference in manifest
+1. Clone the repo or download it
+2. Build it using vite
+3. Copy dist to existing webapp branding
+4. Reference in manifest
    
 ## Usage
 
@@ -23,7 +24,11 @@ A collaborative whiteboard plugin for Pexip Infinity that allows participants to
 4. **Clearing**: Use the "Clear" button in the top-left corner to reset the whiteboard, or use the eraser, or the undo button. World's your oyster
 5. **Closing**: Click the big red cross to close the drawing canvas. I know the popup says ESC also works, don't trust everything websites tell you
 
-## Technical Details
+## TODO
+
+1. SIP or endpoint functionality
+2. Name grabbing, stroke naming
+3. Presentation mode change
 
 ### Architecture
 
