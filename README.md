@@ -33,14 +33,6 @@ The plugin uses the Pexip Plugin API to:
 - Create canvas overlays on the main video area
 - Handle mouse and touch events for drawing
 
-### Real-time Synchronization
-
-The plugin implements real-time drawing synchronization using:
-- `plugin.conference.sendApplicationMessage()` to broadcast drawing data
-- `plugin.events.applicationMessage.add()` to receive drawing data from other participants
-- Canvas drawing state management to maintain consistency across all participants
-- It's going to fill up logs fast as fuck
-
 ## Browser Compatibility
 
 - Chrome/Chromium (recommended)
@@ -54,7 +46,9 @@ The plugin implements real-time drawing synchronization using:
 
 1. The button doesn't appear!!! 
    Try again. But seriously, it needs the following permissions for the sandbox: `"sandboxValues": ["allow-same-origin", "allow-popups", "allow-popups-to-escape-sandbox", "allow-scripts"]`
-3. I found a bug!!! 
+2. Logs fill up fast!!!
+   Yeah.
+4. I found a bug!!! 
    Great, let me know, I'll do my best to fix it
 
 ## License
