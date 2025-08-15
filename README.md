@@ -63,3 +63,5 @@ This plugin is provided as-is for use with Pexip Infinity.
 ## Support
 
 For issues or questions, please refer to the Pexip Plugin API documentation, contact your Pexip administrator or me.
+
+## Don't want to build, just use it? Download [here](https://github.com/xxdr4gon/pexip-whiteboard/blob/ca7a6073c5700fdf94d7071c35432a530e513507/whiteboard.zip)
